@@ -38,56 +38,21 @@ Ninja comes up with own idea and develop and make presentation
 
 
 # Resources
-* Scratch Website[Scratch Website](https://scratch.mit.edu/)
+* [Scratch Website](https://scratch.mit.edu/)
 * [Download Scratch 2.0](https://scratch.mit.edu/download) 
 * Scratch Cards
   + handy cards that can be downloaded and made to help remember scratch programming techniques(tricks)
   + [Scratch Starter Cards](https://resources.scratch.mit.edu/www/cards/en/Scratch2Cards.pdf)
   + [More Scratch Cards](https://scratch.mit.edu/info/cards/) including some games
-* Book:[]() (free on-line reading)
-  + can also buy hardcopies from amazon
-* Website:[Invert with Scratch](https://inventwithscratch.com/)
+* Book: [Scratch Programming Playground](https://inventwithscratch.com/book/) (free on-line reading)
+  + can also buy hardcopies from [amazon](https://www.amazon.com/gp/product/1593277628/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=playwithpyth-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593277628&linkId=03f6be89a91b87b81bc6eeb6b3c73eaf)
+* Website: [Invert with Scratch](https://inventwithscratch.com/)
   + Has images can used in some of the games
   + Also has videos on some of the games
-* [CoderDojo Badges](https://coderdojo.com/community/badges/)
+* [CoderDojo Badges](https://zen.coderdojo.com/badges)
   + For different levels, digital assign, Ninjas need an account(Parent Permission) 
 
 
+# References
+* [Using Github Pages](./doc/index.html)
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/pnkynbrn/StartingScratch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pnkynbrn/StartingScratch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

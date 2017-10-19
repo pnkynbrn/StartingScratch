@@ -3,8 +3,8 @@
 Gives notes on starting to program using scratch
 
 ## Installing and what is this?
-* Gone download and install
-* Discussion 
+* Go to [Resources](#resources) download and install Scratch
+* Discussion on Scratch Program (What is What) 
   + Stage
   + Scripting Area
   + Sprites and Scripts
@@ -13,7 +13,7 @@ Gives notes on starting to program using scratch
 * Make a Sprite Move, first program
 
 ## Scratch Cards
-Firstly go through the scratch cards, these give the small techniques that are commonly used in Scratch programs such as games or stories, the techniques include
+Firstly go through the [scratch cards](#scratch_cards), these give the small techniques that are commonly used in Scratch programs such as games or stories, the techniques include
  * move
  * dance
  * animate it
@@ -40,7 +40,7 @@ Ninja comes up with own idea and develop and make presentation
 # Resources
 * [Scratch Website](https://scratch.mit.edu/)
 * [Download Scratch 2.0](https://scratch.mit.edu/download) 
-* Scratch Cards
+* <a name="scratch_cards"> Scratch Cards <a>
   + handy cards that can be downloaded and made to help remember scratch programming techniques(tricks)
   + [Scratch Starter Cards](https://resources.scratch.mit.edu/www/cards/en/Scratch2Cards.pdf)
   + [More Scratch Cards](https://scratch.mit.edu/info/cards/) including some games
@@ -54,5 +54,5 @@ Ninja comes up with own idea and develop and make presentation
 
 
 # References
-* [Using Github Pages](./doc/index.html)
+* [Using Github Pages](./doc/using_github_pages.html)
 

@@ -14,9 +14,17 @@ Gives notes on starting to program using scratch
 
 ## Scratch Cards
 Firstly go through the [scratch cards](#scratch_cards), these give the small techniques that are commonly used in Scratch programs such as games or stories, the techniques include
+ * change colour
  * move
- * dance
- * animate it
+    + move to a beat
+    + key moves
+    + glide
+    + follow the mouse
+    + dance
+ * say something
+ * interactive whirl (effects)
+ * animatation
+ * surprize button
  * keep score
 
 ## First Game

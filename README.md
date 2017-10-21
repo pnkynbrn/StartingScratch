@@ -30,14 +30,24 @@ Firstly go through the [scratch cards](#scratch_cards), these give the small tec
 ## First Game
 Select from a selection, will have a vote and on 
 The Selection is :
-* TBD
-* TBD
+* [Maze Game](https://inventwithscratch.com/book/chapter3.html)
+* [Fashion Game](https://resources.scratch.mit.edu/www/cards/en/fashionCards.pdf)
+* [Virtual Pet]()
+* Others and suggestions
 
 TO DO, will do this once or twice depending on how we get on
 * Create Title Page
 * Create Instructions Page ( so players know how to play the game, this is good game palnning to do this first)
 * Game must have a score ( how well the player is doing)
 * Game must have an End Page ( i.e. you have won or you have lost)
+
+## Keep a Library
+Reusing code is the easiest way to create fast 
+* exporting and importing sprites
+* Title Page
+* Instruction Page
+* Question: From the first game is there anything that could be used in otehr games
+* TBD
 
 ## Project
 Ninja comes up with own idea and develop and make presentation
@@ -62,5 +72,5 @@ Ninja comes up with own idea and develop and make presentation
 
 
 # References
-* [Using Github Pages](./doc/using_github_pages.html)
+* [Using Github Pages](./docs/using_github_pages.html)
 

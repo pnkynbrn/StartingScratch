@@ -4,7 +4,7 @@ Gives notes on starting to program using scratch
 
 ## Installing and what is this?
 * Go to [Resources](#resources) download and install Scratch
-* Discussion on Scratch Program (What is What) 
+* Discussion on Scratch Program (What is What)
   + Stage
   + Scripting Area
   + Sprites and Scripts
@@ -28,11 +28,11 @@ Firstly go through the [scratch cards](#scratch_cards), these give the small tec
  * keep score
 
 ## First Game
-Select from a selection, will have a vote and on 
+Select from a selection, will have a vote and on
 The Selection is :
 * [Maze Game](https://inventwithscratch.com/book/chapter3.html)
-* [Fashion Game](https://resources.scratch.mit.edu/www/cards/en/fashionCards.pdf)
 * [Virtual Pet]()
+* A Paddle based game ( honour Ping-Pong, hello world for games)
 * Others and suggestions
 
 TO DO, will do this once or twice depending on how we get on
@@ -42,13 +42,17 @@ TO DO, will do this once or twice depending on how we get on
 * Game must have an End Page ( i.e. you have won or you have lost)
 
 ## Keep a Library
-Reusing code is the easiest way to create fast 
+Reusing code is the easiest way to create fast
 * exporting and importing sprites
 * Title Page
 * Instruction Page
-* Question: From the first game is there anything that could be used in otehr games
+* Question: From the first game is there anything that could be used in other games
 * TBD
 
+## Versioning and Github
+ ( Optional) for  Ninga's ahead of the curve, going on-line creating an account, be nice and let parents know (Cyber Security reasons)
+* Place the Library on your Github account
+* Share your library with another Ninga
 ## Project
 Ninja comes up with own idea and develop and make presentation
 * Each Ninja to make a presentation in with a chance to get a XXXX badge
@@ -57,7 +61,7 @@ Ninja comes up with own idea and develop and make presentation
 
 # Resources
 * [Scratch Website](https://scratch.mit.edu/)
-* [Download Scratch 2.0](https://scratch.mit.edu/download) 
+* [Download Scratch 2.0](https://scratch.mit.edu/download)
 * <a name="scratch_cards"> Scratch Cards <a>
   + handy cards that can be downloaded and made to help remember scratch programming techniques(tricks)
   + [Scratch Starter Cards](https://resources.scratch.mit.edu/www/cards/en/Scratch2Cards.pdf)
@@ -68,9 +72,9 @@ Ninja comes up with own idea and develop and make presentation
   + Has images can used in some of the games
   + Also has videos on some of the games
 * [CoderDojo Badges](https://zen.coderdojo.com/badges)
-  + For different levels, digital assign, Ninjas need an account(Parent Permission) 
+  + For different levels, digital assign, Ninjas need an account(Parent Permission)
 
 
 # References
+* [Using Github](https://guides.github.com/)
 * [Using Github Pages](./docs/using_github_pages.html)
-

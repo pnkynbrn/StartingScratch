@@ -1,4 +1,3 @@
-
 # Introduction
 Gives notes on starting to program using scratch
 
@@ -76,7 +75,6 @@ Ninja comes up with own idea and develop and make presentation
 
 
 # References
+* [Others Ideas for Ninjas](./docs/others_for_ninjas.html)
 * [Using Github](https://guides.github.com/)
 * [Using Github Pages](./docs/using_github_pages.html)
-* [Others for Ninjas](./docs/others_for_ninjas.html)
-

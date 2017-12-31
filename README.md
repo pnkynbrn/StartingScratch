@@ -48,6 +48,21 @@ Reusing code is the easiest way to create fast
 * Question: From the first game is there anything that could be used in other games
 * TBD
 
+##  Adavnced Topics
+
+* Cloning
+* Lists
+
+## More Advanced Games
+
+
+# Asteriods ( from watching the Intermed Group)
+ *
+# Snake Game
+ * 
+# Sky Jumper 
+ * A Doodle Jump clone
+
 ## Versioning and Github
  ( Optional) for  Ninga's ahead of the curve, going on-line creating an account, be nice and let parents know (Cyber Security reasons)
 * Place the Library on your Github account
@@ -56,6 +71,7 @@ Reusing code is the easiest way to create fast
 Ninja comes up with own idea and develop and make presentation
 * Each Ninja to make a presentation in with a chance to get a XXXX badge
 * NOTE: More information during the year, i.e why is it right to award badges?
+
 
 
 # Resources

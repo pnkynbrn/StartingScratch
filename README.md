@@ -51,23 +51,33 @@ Reusing code is the easiest way to create fast
 ##  Adavnced Topics
 
 * Cloning
+    + WalkThrough, Ask Ninja's what to demo
+        - Falling Snow
+        - Firing Bullets
+    + Ask Ninja's with help to do the following
+        - Fireworks
+        -
 * Lists
+* Gravity
+* Demo a platform Game
 
 ## More Advanced Games
 
+ * Asteriods ( from watching the Intermediate Group)
+ * HangMan
+ * Snake Game
+ * Sky Jumper ( A Doodle Jump clone)
 
-# Asteriods ( from watching the Intermed Group)
- *
-# Snake Game
- * 
-# Sky Jumper 
- * A Doodle Jump clone
+Also see the Ninja's Gaming Gallery for idea's
 
 ## Versioning and Github
+
  ( Optional) for  Ninga's ahead of the curve, going on-line creating an account, be nice and let parents know (Cyber Security reasons)
 * Place the Library on your Github account
 * Share your library with another Ninga
+
 ## Project
+
 Ninja comes up with own idea and develop and make presentation
 * Each Ninja to make a presentation in with a chance to get a XXXX badge
 * NOTE: More information during the year, i.e why is it right to award badges?
@@ -91,6 +101,8 @@ Ninja comes up with own idea and develop and make presentation
 
 
 # References
+
+* [Ninja Gamming Gallery](./gallery/index.md)
 * [Others Ideas for Ninjas](./docs/others_for_ninjas.html)
 * [Using Github](https://guides.github.com/)
 * [Using Github Pages](./docs/using_github_pages.html)

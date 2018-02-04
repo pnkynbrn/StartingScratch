@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-gvim *.sh *.md docs/*md &
+gvim *.md docs/*.md gallery/*.md *.sh &
